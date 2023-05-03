@@ -42,6 +42,10 @@ main {
 	animation-duration: 2s;
 }
 
+.link:hover {
+	background-color: rgb(190, 2, 2);
+}
+
 a {
 	text-decoration: none;
 	font-weight: bold;
